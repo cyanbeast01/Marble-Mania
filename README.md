@@ -5,12 +5,6 @@
 - Can start, but cant split and reset. You have to do those manually.
 - Speedrun page (https://www.speedrun.com/Marble_Mania)
 
-### WHY YOU SHOULD SPEEDRUN THIS GAME
-- Easy to pick up and learn.
-- 2 categories of luck-based and skill-based.
-- Free WRs because nobody seems to speedrun this because the game. havent been updated for 5+ years.
-- Contains shortcuts for s w a g.
-
 ### REQUIREMENTS
 - Livesplit (http://livesplit.org/downloads/)
 - Marble Mania v2.1.1 (https://gamejolt.com/games/MarbleMania/287568)
